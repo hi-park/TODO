@@ -6,8 +6,7 @@ Study
 1. kotlin
 ---------
 
-2. Clean Architecture
----------------------
+#Clean Architecture
 
 3. Dependency Injection
 -----------------------
