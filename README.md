@@ -1,21 +1,17 @@
 # TODO
 
-Study
-=============
+## Study
 
-1. kotlin
----------
+### kotlin
 
-# Clean Architecture
+### Clean Architecture
 
-3. Dependency Injection
------------------------
+### Dependency Injection
 
-4. RxJava
----------
+### RxJava
 
-5. Android Architecture Components
-----------------------------------
+### Android Architecture Components
+
 
 
 
