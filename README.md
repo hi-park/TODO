@@ -4,19 +4,19 @@
 
 ### Android
 
-#### Kotlin
+#### * Kotlin
 
-#### Clean Architecture
+#### * Clean Architecture
 ##### -MVP
 ##### -MVVM
 
-#### Dependency Injection
+#### * Dependency Injection
 ##### -Dagger2
 ##### -Koin
 
-#### RxJava
+#### * RxJava
 
-#### Android Architecture Components
+#### * Android Architecture Components
 ##### -Lifecycles
 ##### -LiveData
 ##### -ViewModel
