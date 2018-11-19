@@ -7,18 +7,18 @@
 #### Kotlin
 
 #### Clean Architecture
-##### MVP
-##### MVVM
+##### -MVP
+##### -MVVM
 
 #### Dependency Injection
-##### Dagger2
-##### Koin
+##### -Dagger2
+##### -Koin
 
 #### RxJava
 
 #### Android Architecture Components
-##### Lifecycles
-##### LiveData
-##### ViewModel
-##### Room
-##### Paging
+##### -Lifecycles
+##### -LiveData
+##### -ViewModel
+##### -Room
+##### -Paging
