@@ -2,17 +2,23 @@
 
 ## Study
 
-### kotlin
+### Android
 
-### Clean Architecture
+#### Kotlin
 
-### Dependency Injection
+#### Clean Architecture
+##### MVP
+##### MVVM
 
-### RxJava
+#### Dependency Injection
+##### Dagger2
+##### Koin
 
-### Android Architecture Components
+#### RxJava
 
-
-
-
-
+#### Android Architecture Components
+##### Lifecycles
+##### LiveData
+##### ViewModel
+##### Room
+##### Paging
